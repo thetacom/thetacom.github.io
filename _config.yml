@@ -1,1 +1,4 @@
+markdown: redcarpet
 theme: jekyll-theme-tactile
+baseurl: /
+exclude: ['README.md']
