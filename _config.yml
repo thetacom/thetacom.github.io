@@ -2,3 +2,5 @@ markdown: redcarpet
 theme: jekyll-theme-tactile
 baseurl: /
 exclude: ['README.md']
+# Google Analytics
+google_analytics: UA-3603424-3
