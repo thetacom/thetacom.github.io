@@ -1,8 +1,12 @@
-## Welcome to the ThetaCom Programming Dojo
+## Welcome to the ThetaCom Code Dojo
 
-A collection of misc projects and experiments.
+A collection of misc guides, quick references, and programming resources.
 
-### Support or Contact
--[ThetaCom.services](http://www.thetacom.services/)
+### More...
+-[About Me](https://www.thetacom.info)
 
--[Blog](http://www.thetacom.services/blog/)
+-[Projects](https://projects.thetacom.info)
+
+-[Blog](https://blog.thetacom.info)
+
+-[Services](https://www.thetacom.services)
